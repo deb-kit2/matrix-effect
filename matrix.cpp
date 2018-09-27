@@ -11,6 +11,7 @@ int main()
 	for (int i = 0; i < 15; i++)
 	{
 		printf("% 05d", rand() % 9999);
+		/*cout << (rand() % 9901) + 100 << " ";*/
 	}
 	cout << endl;
 	goto kittu;
