@@ -17,3 +17,5 @@ int main()
 	goto kittu;
 	return 0;
 }
+//No control over loop. WAnted to add some. Guide me through this.
+//Need soe kind of a pause and resume function.
